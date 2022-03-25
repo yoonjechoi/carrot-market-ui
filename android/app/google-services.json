@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "125206673389",
+    "firebase_url": "https://yoonjechoi-firebase-1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "yoonjechoi-firebase-1",
+    "storage_bucket": "yoonjechoi-firebase-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125206673389:android:1f13dd8ef59f004712d9e4",
+        "android_client_info": {
+          "package_name": "io.spotu.yoonjechoi.todos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125206673389-4shmd7j5jn5il620j2bmef66d635cc2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.spotu.yoonjechoi.todos",
+            "certificate_hash": "8c4195e7ed3338368a098d0e515ff98f0e435e48"
+          }
+        },
+        {
+          "client_id": "125206673389-hls0anbqcakn9kp6gm9fcnaj1cf3bick.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXvYfgSv6V-wY4OnA3Qy2Qrj73JeRl3CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125206673389-hls0anbqcakn9kp6gm9fcnaj1cf3bick.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125206673389-t7rj9ikunii10hnmgk0iomi851p8jo1t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.spotu.yoonjechoi.todos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
